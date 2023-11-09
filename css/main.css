@@ -1,9 +1,10 @@
 /* Global rules */
 
 @import url('https://fonts.googleapis.com/css?family=Quicksand');
+@import url('https://fonts.googleapis.com/css?family=Calistoga');
 
 html {
-    background-color: lightgray;
+    background-color: #dbbbfc;
     font-family: 'Quicksand', sans-serif;
     font-size: 0.95em;
     line-height: 1.5em;
@@ -17,8 +18,14 @@ html {
 h1 {
     font-weight: normal;
     margin: auto;
-    background: #fff;
+    background: #8d3fd0;
     line-height: 2.5em;
+}
+
+h1.page-header{
+    background-color:#8d3fd0;
+    font-family: 'Calistoga', serif;
+    color: #fff;
 }
 
 main.wrapper {
