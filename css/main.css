@@ -1,7 +1,7 @@
 /* Global rules */
 
 @import url('https://fonts.googleapis.com/css?family=Quicksand');
-@import url('https://fonts.googleapis.com/css?family=Calistoga');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
 
 html {
     background-color: #dbbbfc;
@@ -44,13 +44,13 @@ h2,h3 {
 }
 
 a {
-    color:darkcyan;
+    color:pink;
     text-decoration: none;
 }
 
 a:hover {
     color: whitesmoke;
-    background-color: darkcyan;
+    background-color: pink;
     text-decoration: none;
 }
 
