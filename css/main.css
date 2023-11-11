@@ -5,14 +5,14 @@
 
 html {
     background-color: #dbbbfc;
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 0.95em;
     line-height: 1.5em;
 }
 
 ::selection {
-    color: #000; 
-    background: #ff0;
+    color: #fff; 
+    background: #62c4fc;
 }
 
 h1 {
@@ -24,7 +24,7 @@ h1 {
 
 h1.page-header{
     background-color:#8d3fd0;
-    font-family: 'Calistoga', serif;
+    font-family: 'Montserrat', sans-serif;
     color: #fff;
 }
 
